@@ -1,0 +1,5 @@
+# all ItelliJ/Webstorm IDE settings
+.idea/
+
+# all node dependencies
+node_modules/

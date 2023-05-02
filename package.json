@@ -2,7 +2,7 @@
   "name": "@liblab/lotr-sdk",
   "version": "0.0.1",
   "description": "SDK for Liblab's Lord of the Rings project",
-  "main": "./dist/lotr.js",
+  "main": "./dist/liblab-lotr.js",
   "scripts": {
     "build": "webpack --mode=production",
     "test": "jest"

@@ -1,6 +1,6 @@
 {
-  "name": "@liblab/lotr-sdk",
-  "version": "0.0.1",
+  "name": "@afirdousi/liblab-lotr-sdk",
+  "version": "1.0.0",
   "description": "SDK for Liblab's Lord of the Rings project",
   "main": "./dist/liblab-lotr.js",
   "scripts": {
